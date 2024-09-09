@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f1xuevwiYso7Ox0hZ6ycX9OksEgaqL7UK3ECyAAXVbM=",
+  "Source": "VendorApp",
+  "BasePath": "_content/VendorApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
